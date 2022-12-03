@@ -1,0 +1,117 @@
+header{
+    background-color: rgb(3, 190, 150);
+    border-style: hidden;
+    border-radius: 5px;
+    color: rgb(119, 14, 1);
+    font-size: 25px;
+    font-family: cursive;
+    padding-left: 40%;
+    box-shadow: 3px 3px rgb(143, 140, 140);
+}
+body{
+    background-color: rgb(99, 20, 6);
+  }
+  footer{
+    background-color: rgb(3, 190, 150);
+    border-style: hidden;
+    border-radius: 5px;
+    color: rgb(119, 14, 1);
+    font-size: 25px;
+    font-family: cursive;
+    padding-left: 40%;
+    box-shadow: 3px 3px rgb(143, 140, 140);
+}
+h2{
+    background-color: rgb(216, 206, 177);
+    border-style: hidden;
+    border-radius: 5px;
+    color: rgb(5, 2, 56);
+    font-size: 25px;
+    padding-left: 40%;
+    box-shadow: 3px 3px rgb(143, 140, 140);
+}
+#jordanCard{
+    border-style: hidden;
+    border-radius: 5px;
+    background-color: rgb(216, 206, 177);
+    box-shadow: 3px 3px rgb(143, 140, 140);
+}
+
+table {
+    width: 40%;
+    margin: 5px;
+    border-collapse: collapse;
+  }
+  table,
+  th,
+  td {
+    border: 1px solid black;
+  }
+  #image {
+    height: 410px;
+    border: 1px solid;
+    
+    width: 85%;
+  }
+  .pull-left {
+    float: left;
+  }
+  .clearfix {
+    clear: both;  
+  }
+  #table1 {
+    width: 40%;
+    margin: 5px;
+    border-collapse: collapse;
+  }
+  table,
+  th,
+  td {
+    border: 1px solid black;
+  }
+  #image1 {
+    height: 422px;
+    border: 1px solid;
+   
+    width: 85%;
+  }
+  .pull-left {
+    float: left;
+  }
+  .clearfix {
+    clear: both;  
+  }
+  #sandersCard{
+    border-style: hidden;
+    border-radius: 5px;
+    background-color: rgb(216, 206, 177);
+    box-shadow: 3px 3px rgb(143, 140, 140);
+  }
+  #table3 {
+    width: 40%;
+    margin: 10px;
+    border-collapse: collapse;
+  }
+  #table3,
+  th,
+  td {
+    border: 1px solid black;
+  }
+  #image2 {
+    height: 409px;
+    border: 1px solid;
+   
+    width: 85%;
+  }
+  .pull-left {
+    float: left;
+  }
+  .clearfix {
+    clear: both;  
+  }
+  #griffeyCard{
+    border-style: hidden;
+    border-radius: 5px;
+    background-color: rgb(216, 206, 177);
+    box-shadow: 3px 3px rgb(143, 140, 140);
+  }

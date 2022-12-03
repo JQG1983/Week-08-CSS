@@ -1,0 +1,38 @@
+header{
+    background-color: rgb(3, 190, 150);
+    border-style: hidden;
+    border-radius: 5px;
+    color: rgb(119, 14, 1);
+    font-size: 25px;
+    font-family: cursive;
+    padding-left: 40%;
+   box-shadow: 3px 3px rgb(180, 170, 170);
+}
+body{
+    background-color: rgb(5, 2, 56);
+}
+#brightMike{
+    padding-left: 28%;
+}
+#contact{
+    border-style: hidden;
+    border-radius: 5px;
+    background-color: rgb(216, 206, 177);
+    box-shadow: 3px 3px rgb(143, 140, 140);
+}
+#join{
+    border-style: hidden;
+    border-radius: 5px;
+    background-color: rgb(216, 206, 177);
+    box-shadow: 3px 3px rgb(143, 140, 140);
+}
+footer{
+    background-color: rgb(3, 190, 150);
+    border-style: hidden;
+    border-radius: 5px;
+    color: rgb(119, 14, 1);
+    font-size: 25px;
+    font-family: cursive;
+    padding-left: 40%;
+   box-shadow: 3px 3px rgb(180, 170, 170);
+}

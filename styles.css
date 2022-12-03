@@ -1,0 +1,80 @@
+header{
+    background-color: rgb(3, 190, 150);
+    border-style: hidden;
+    border-radius: 5px;
+    color: rgb(119, 14, 1);
+    font-size: 25px;
+    font-family: cursive;
+    padding-left: 40%;
+   box-shadow: 3px 3px rgb(180, 170, 170);
+}
+img{
+    padding-left: 35%;
+    
+}
+#heading{
+    padding-left: 30%;
+}
+#Michael{
+    padding-left: 45%;
+}
+#sixForSix{
+    padding-left: 28%;
+}
+
+
+h2{
+    background-color: rgb(16, 11, 66);
+    border-style: hidden;
+    border-radius: 5px;
+    color: white;
+    font-size: 25px;
+    padding-left: 40%;
+    box-shadow: 3px 3px rgb(180, 170, 170);
+}
+p{
+    border-style: solid;
+    border-radius: 5px;
+    box-shadow: 3px 3px rgb(180, 170, 170);
+    background-color: white;
+}
+#griffey{
+        padding-left: 20%;
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 29px;
+  }
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+.column1 {
+    float: left;
+    width: 33.33%;
+    padding: 29px;
+  }
+  .row1::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  footer{
+    background-color: rgb(3, 190, 150);
+    border-style: hidden;
+    border-radius: 5px;
+    color: rgb(119, 14, 1);
+    font-size: 25px;
+    font-family: cursive;
+    padding-left: 40%;
+   box-shadow: 3px 3px rgb(180, 170, 170);
+  }
+  body{
+    background-color: rgb(216, 206, 177);
+  }
+  h3{
+    padding-left: 17%;
+  }
